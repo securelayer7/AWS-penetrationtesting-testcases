@@ -34,5 +34,6 @@ This document is covering the AWS Penetration testing test cases collected from 
     Redshift User Activity L4 Logging Not Enabled
     Elastic Load Balancer Access L5 Logs Not Enabled
     EC2 Termination Protection I1 Is Disabled
+    ec2 SSRF Vulnerability
 
 Credit to RhinoSecurityLabs for creating such good resources for the AWS penetration testing.
