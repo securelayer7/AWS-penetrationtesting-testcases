@@ -38,5 +38,5 @@ This document is covering the AWS Penetration testing test cases collected from 
 
 Credits and Contributers of this document:
 
-* [RhinoSecurityLabs](https://twitter.com/rhinosecurity)
+* [RhinoSecurityLabs](https://github.com/RhinoSecurityLabs)
 * [AkashKatare](https://github.com/akashkatare)
