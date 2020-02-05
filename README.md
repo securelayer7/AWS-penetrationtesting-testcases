@@ -36,4 +36,7 @@ This document is covering the AWS Penetration testing test cases collected from 
 * EC2 Termination Protection I1 Is Disabled
 * ec2 SSRF Vulnerability
 
-__Credits to RhinoSecurityLabs__
+Credits and Contributers of this document:
+
+* [RhinoSecurityLabs](https://twitter.com/rhinosecurity)
+* [AkashKatare](https://github.com/akashkatare)
